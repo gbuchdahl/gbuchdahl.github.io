@@ -1,12 +1,11 @@
 body {
   text-align: center;
   color: white;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   background: #00c6ff;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #0072ff, #00c6ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background-size: cover;
-  font-smoothing: antialiased;
   text-align: center;
   animation-timing-function: ease-out;
   -webkit-font-smoothing: antialiased;
@@ -78,5 +77,5 @@ img, a{
 }
 
 p {
-  font-weight: 500;
+  font-weight: 400;
 }
